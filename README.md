@@ -5,20 +5,20 @@ This repo is related to the lecture/lab series that I am presenting at Moffitt C
 
 ## Here are the core takeaways
 
-•	Gain practical skills in Python programming, data wrangling, and implementing machine learning pipelines for medical data. 
-•	Understand how to apply regression, classification, neural networks, CNNs, RNNs, and other core ML techniques to medical use cases. 
-•	Learn best practices for training, evaluating, and testing models rigorously, focusing on performance metrics relevant to medical practice.
-•	Appreciate the expanding capabilities and limitations of state-of-the-art foundation models and large language models. 
-•	Develop expertise in applying AI to tasks like analyzing medical images and scans, extracting information from clinical text, conversational agents, prediction models, and more.
-•	Gain hands-on experience by undertaking an end-to-end ML project from data processing to model deployment. 
-•	Appreciate the importance of responsibly developing interpretable models and integrating AI in clinical workflows.
-•	Become fluent in concepts of data ethics, model bias, regulatory requirements, and other considerations when applying AI in medical settings.
-•	Build foundational skills to participate in multidisciplinary teams advancing research and applied AI solutions in healthcare. 
-•	The core emphasis would be gaining both conceptual and practical AI literacy to translate machine learning into improved patient outcomes responsibly.
+* Gain practical skills in Python programming, data wrangling, and implementing machine learning pipelines for medical data.
+* Understand how to apply regression, classification, neural networks, CNNs, RNNs, and other core ML techniques to medical use cases.
+* Learn best practices for training, evaluating, and testing models rigorously, focusing on performance metrics relevant to medical practice.
+* Appreciate the expanding capabilities and limitations of state-of-the-art foundation models and large language models.
+* Develop expertise in applying AI to tasks like analyzing medical images and scans, extracting information from clinical text, conversational agents, prediction models, and more.
+* Gain hands-on experience by undertaking an end-to-end ML project from data processing to model deployment.
+* Appreciate the importance of responsibly developing interpretable models and integrating AI in clinical workflows.
+* Become fluent in concepts of data ethics, model bias, regulatory requirements, and other considerations when applying AI in medical settings.
+* Build foundational skills to participate in multidisciplinary teams advancing research and applied AI solutions in healthcare.
+* The core emphasis would be gaining both conceptual and practical AI literacy to translate machine learning into improved patient outcomes responsibly.
 
 
 ## Setup environment
-
+Please use following step to setup things on your laptop/computer.
 
 1.  Download and install LM Studio https://lmstudio.ai/.
 2.  Download and install VS Code https://code.visualstudio.com/
