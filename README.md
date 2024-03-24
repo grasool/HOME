@@ -16,6 +16,8 @@ This repo is related to the lecture/lab series that I am presenting at Moffitt C
 * Build foundational skills to participate in multidisciplinary teams advancing research and applied AI solutions in healthcare.
 * The core emphasis would be gaining conceptual and practical AI literacy to translate machine learning responsibly into improved patient outcomes.
 
+## Link to recordings
+https://www.moffitt.org/research-science/divisions-and-departments/quantitative-science/machine-learning/news-and-events/hands-on-machine-learning/
 
 ## Setup environment
 Please use the following steps to set up things on your laptop/computer.
