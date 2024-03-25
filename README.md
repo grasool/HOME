@@ -30,3 +30,14 @@ Please use the following steps to set up things on your laptop/computer.
 6.  Activate environment
 7.  Install LangChain https://python.langchain.com/docs/get_started/installation
 8.  Install other dependencies
+
+
+
+## Setup ollama - with Docker
+### Without GPU 
+```docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+docker exec -it ollama ollama run llama2```
+
+### With GPU
+```docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+docker exec -it ollama ollama run llama2```
