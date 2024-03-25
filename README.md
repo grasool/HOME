@@ -22,10 +22,11 @@ https://www.moffitt.org/research-science/divisions-and-departments/quantitative-
 ## Setup environment
 Please use the following steps to set up things on your laptop/computer.
 
-1.  Download and install LM Studio https://lmstudio.ai/.
-2.  Download and install VS Code https://code.visualstudio.com/
-3.  Download and install miniconda https://docs.conda.io/projects/miniconda/en/latest/index.html
-4.  Make a virtual environment: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
-5.  Activate environment
-6.  install LangChain https://python.langchain.com/docs/get_started/installation
-7.  install other dependencies
+1.  Download and install ollama https://ollama.com/
+2.  Download and install LM Studio https://lmstudio.ai/.
+3.  Download and install VS Code https://code.visualstudio.com/
+4.  Download and install miniconda https://docs.conda.io/projects/miniconda/en/latest/index.html
+5.  Make a virtual environment: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+6.  Activate environment
+7.  Install LangChain https://python.langchain.com/docs/get_started/installation
+8.  Install other dependencies
