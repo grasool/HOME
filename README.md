@@ -34,6 +34,7 @@ Please use the following steps to set up things on your laptop/computer.
 
 
 ## Setup ollama - with Docker
+Source: [https://hub.docker.com/r/ollama/ollama]
 ### Without GPU 
 ```
 docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
