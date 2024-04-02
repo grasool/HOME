@@ -10,9 +10,12 @@ The curriculum underscores best practices for developing and deploying reliable,
 
 
 ### Lecture 1 - An Introduction to Machine Learning Using LLMs as an Example - Part I
+[Video](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=945c0f41-9c93-43f9-9c0d-b10e015f68f8)
+[Code](https://github.com/grasool/HOME/tree/main/Lecture-1)
 
 ### Lecture 2 - An Introduction to Machine Learning Using LLMs as an Example – Part II
-
+[Video](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65a27a26-520e-4fef-a6d8-b12a015a83b8)
+[Code](https://github.com/grasool/HOME/tree/main/Lecture-2)
 
 ## Here are the core takeaways
 
