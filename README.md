@@ -8,6 +8,12 @@ The course starts with a grounding in core concepts and methods like regression,
 
 The curriculum underscores best practices for developing and deploying reliable, transparent, and ethical medical AI systems. Upon completing this course, the attendees will have the know-how to implement AI solutions that enhance diagnoses, personalize treatments, streamline workflows, and ultimately get the proper care to patients.
 
+
+## Lecture 1 - An Introduction to Machine Learning Using LLMs as an Example - Part I
+
+## Lecture 2 - An Introduction to Machine Learning Using LLMs as an Example – Part II
+
+
 ## Here are the core takeaways
 
 * Gain practical skills in Python programming, data wrangling, and implementing machine learning pipelines for medical data.
