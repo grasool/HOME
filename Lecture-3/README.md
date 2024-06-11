@@ -31,11 +31,12 @@ conda activate llm-path-reports
    ```bash
    /bye
    ```
-7. Test llama3
+## Run LLM
+1. Test llama3
    ```bash
    python test-langchain-ollama.py
    ```
-8. Rune the main code using the command or from the editor
+2. Rune the main code using the command or from the editor
    ```bash
    python main-path-reports-llm.py
    ```
