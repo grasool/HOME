@@ -9,12 +9,12 @@
 3.  Download and install [vscode](https://code.visualstudio.com/).
 
 ## Setup Python Virtual Environment and Install Dependencies
-1.  Oepn VScode, go to the terminal and create a virtual environment in a
+1.  Oepn VScode, go to the terminal, and create a virtual environment:
    ```bash
    conda create --name llm-path-reports python=3.10
    conda activate llm-path-reports
    ```   
-2. Clone repo
+2. Clone this repo
    ```bash
    git clone https://github.com/grasool/HOME
    ```
