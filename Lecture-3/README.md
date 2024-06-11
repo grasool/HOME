@@ -4,7 +4,7 @@
 
 ## Installation and Environment Setup
 
-1.  Download and install ollama.
+1.  Download and install [ollama](https://ollama.com/).
 2.  Dowonload and install miniconda.
 3.  Download and install vscode.
 
