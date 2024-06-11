@@ -9,10 +9,9 @@
 3.  Download and install vscode.
 
 ## Setup Python Virtual Environment and Install Dependencies
-1.  Create a virtual environment
+1.  Oepn VScode, go to the termona, and create a virtual environment in a
    ```bash
 conda create --name llm-path-reports python=3.10
-
-2. ``` conda activate llm-path-reports
-
+conda activate llm-path-reports
 ```   
+2.   
