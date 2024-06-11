@@ -15,7 +15,8 @@ conda create --name llm-path-reports python=3.10
 conda activate llm-path-reports
 ```   
 2. Clone repo
-   ``` git clone https://github.com/grasool/HOME
+   ```bash
+   git clone https://github.com/grasool/HOME
    ```
 3. Go to the Lecture-3 folder
 4. Install dependencies
