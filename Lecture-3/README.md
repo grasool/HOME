@@ -5,8 +5,8 @@
 ## Installation and Environment Setup
 
 1.  Download and install [ollama](https://ollama.com/).
-2.  Dowonload and install miniconda.
-3.  Download and install vscode.
+2.  Download and install [miniconda](https://docs.anaconda.com/free/miniconda/miniconda-install/).
+3.  Download and install [vscode](https://code.visualstudio.com/).
 
 ## Setup Python Virtual Environment and Install Dependencies
 1.  Oepn VScode, go to the terminal and create a virtual environment in a
